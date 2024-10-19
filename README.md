@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -65,7 +65,7 @@
 
         <!-- Photo Section -->
         <div class="photo">
-            <img src="G:\Helda\desain web\Helda.jpg" alt="Helda Laura Simanjorang Photo">
+            <img src="Helda.jpg" alt="Helda Laura Simanjorang Photo">
         </div>
 
         <!-- Contact Info -->
